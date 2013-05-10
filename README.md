@@ -5,9 +5,9 @@ Solutions to Rosalind bioinformatics problems in Python
 
 http://rosalind.info
 
-Problems completed:
+PROBLEMS COMPLETED:
 
-PYTHON VILLAGE
+Python Village
 ------
 Installing Python (INI1)
 Variables and Some Arithmetic (INI2)
@@ -15,9 +15,9 @@ Strings and Lists (INI3)
 Conditions and Loops (INI4)
 Working with Files (INI5)
 
-BIOINFORMATICS STRONGHOLD
+Bioinformatics Stronghold
 ------
-Counting DNA Nucleotides (DNA)
+Counting DNA Nucleotides (DNA)\n
 Transcribing DNA into RNA (RNA)
 Complementing a Strand of DNA (REVC)
 Rabbits and Recurrence Relations (FIB)
